@@ -3,9 +3,12 @@ import lombok.Getter;
 import lombok.Setter;
 
 import java.util.Objects;
-
+/**
+ * @author i-Taozi
+ */
 @Getter
 @Setter
+
 public class Dependency {
 
     private String groupID;

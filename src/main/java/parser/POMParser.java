@@ -15,7 +15,9 @@ import java.io.File;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.ArrayList;
-
+/**
+ * @author i-Taozi
+ */
 public class POMParser {
 
     private POM pom;
